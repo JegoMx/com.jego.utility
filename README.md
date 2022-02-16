@@ -1,2 +1,15 @@
 # Utility
-Collection of common (extension) methods to be used in Unity
+Collection of common utilities to be used within the Unity engine
+
+## How to install
+
+### Using package manager
+1. Open the Unity package manager
+2. Click on the plus icon in the top left, select "Add package from git URL"
+3. For the package name, write: ``` https://github.com/JegoMx/com.jego.utility.git ```
+4. Click apply
+
+### Using manifest.json
+1. Open the manifest.json file of your project, to be found in the "Packages" folder in your project root
+2. Together with the other packages, add the following line: ``` "com.jego.utility": "https://github.com/JegoMx/com.jego.utility.git" ```
+3. The next time you open the project, Unity will automatically resolve the package
