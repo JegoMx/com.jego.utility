@@ -1,7 +1,0 @@
-{
-    "name": "com.jego.utility",
-    "version": "1.0.0",
-    "displayName": "Jego's Utility",
-    "description": "This package contains common utilities that I've found myself reusing in multiple projects over and over again.",
-    "author": { "name": "Jego Merckx" }
-}
